@@ -1,0 +1,3 @@
+[submodule "packaged"]
+	path = packaged
+	url = https://github.com/bethrobson/Head-First-Design-Patterns.git
