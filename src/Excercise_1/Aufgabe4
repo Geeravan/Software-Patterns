@@ -1,0 +1,3 @@
+in this snippet map can use both f and g in its function depending on which it needs. Moreover the function map and g/f
+and uncoupled, which means that map doesn't know how f and g works
+

@@ -1,5 +1,5 @@
-package Excercise_1;
-import import headfirst.designpatterns.strategy.FlyBehavior;
+/*package Excercise_1;
+import headfirst.designpatterns.strategy.FlyBehavior;
 
 public class Fly_The_HIS_Way implements FlyBehavior{
 
@@ -7,4 +7,4 @@ public class Fly_The_HIS_Way implements FlyBehavior{
     public void fly(){
         System.out.println("Fly");
     }
-}
+}*/
