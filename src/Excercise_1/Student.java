@@ -16,14 +16,10 @@ public class Student {
     public int getMatriculationNumber(){
         return matriculationNumber;
     }
-
     @Override
     public String toString(){
         return matriculationNumber + " " + names;
     }
-
-
-
     public String getNames(){
         return names;
     }

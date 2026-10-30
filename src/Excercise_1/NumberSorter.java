@@ -9,8 +9,6 @@ public class NumberSorter implements Sorter{
     public List<Student> sort(List<Student> list) {
         List<Student> students = new ArrayList<>(list);
         students.sort(Comparator.comparingInt(Student::getMatriculationNumber));
-
         return students;
-
     }
 }
